@@ -1,0 +1,37 @@
+{
+  "name": "gatsby-greenhouse-starter",
+  "description": "Gatsby + Greenhouse Starter",
+  "version": "1.0.1",
+  "author": "http://linkedin.com/in/wahyu-fatur-rizky/",
+  "dependencies": {
+    "gatsby": "^2.24.52",
+    "gatsby-cli": "^2.12.90",
+    "gatsby-plugin-manifest": "^2.4.26",
+    "gatsby-plugin-offline": "^3.2.26",
+    "gatsby-plugin-react-helmet": "^3.3.10",
+    "gatsby-source-filesystem": "^2.3.27",
+    "gatsby-source-greenhouse-job-board": "^1.0.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-helmet": "^6.1.0",
+    "react-html-parser": "^2.0.2",
+    "slugify": "^1.4.5"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write '**/*.js'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "prettier": "^1.14.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/wahyufaturrizky/greenhouse-job-board-app"
+  }
+}
