@@ -1,4 +1,4 @@
-# Gatsby + Greenhouse Job Board Starter
+# Greenhouse Job Board Starter
 
 This project will get you started displaying a list of open jobs, office pages, department pages, and job posts. Job posts load the Greenhouse Job Application via iFrame but you may choose to build your own application form submission for which there are a minimal set of React components to render the form.
 

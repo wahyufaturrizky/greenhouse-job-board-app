@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Greenhouse Job Board',
-    titleTemplate: '%s · Gatsby + Greenhouse',
+    title: 'Greenhouse Job Board',
+    titleTemplate: '%s · Greenhouse',
     description: 'An example of how to use Gatsby and the Greenhouse Job Board API for your company\'s careers website',
     keywords: 'gatsby, greenhouse, jobs, careers',
     hostUrl: 'https://inspiring-hodgkin-1eba1b.netlify.com',
@@ -13,8 +13,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Gatsby + Greenhouse Job Board',
-        short_name: 'Gatsby + Greenhouse',
+        name: 'Greenhouse Job Board',
+        short_name: 'Greenhouse',
         start_url: '/',
         background_color: '#ff6600',
         theme_color: '#ff6600',
